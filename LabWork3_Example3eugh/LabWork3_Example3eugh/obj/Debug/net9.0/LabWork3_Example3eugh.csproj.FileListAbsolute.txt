@@ -1,0 +1,14 @@
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\bin\Debug\net9.0\LabWork3_Example3eugh.exe
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\bin\Debug\net9.0\LabWork3_Example3eugh.deps.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\bin\Debug\net9.0\LabWork3_Example3eugh.runtimeconfig.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\bin\Debug\net9.0\LabWork3_Example3eugh.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\bin\Debug\net9.0\LabWork3_Example3eugh.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.AssemblyInfoInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.AssemblyInfo.cs
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.csproj.CoreCompileInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\refint\LabWork3_Example3eugh.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\LabWork3_Example3eugh.genruntimeconfig.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork3_Example3eugh\LabWork3_Example3eugh\obj\Debug\net9.0\ref\LabWork3_Example3eugh.dll

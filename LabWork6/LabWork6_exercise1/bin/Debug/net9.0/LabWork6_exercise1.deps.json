@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LabWork6_exercise1/1.0.0": {
+        "runtime": {
+          "LabWork6_exercise1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabWork6_exercise1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

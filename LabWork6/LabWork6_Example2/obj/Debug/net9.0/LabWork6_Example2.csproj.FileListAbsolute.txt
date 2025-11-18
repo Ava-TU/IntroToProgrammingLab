@@ -1,0 +1,14 @@
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\bin\Debug\net9.0\LabWork6_Example2.exe
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\bin\Debug\net9.0\LabWork6_Example2.deps.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\bin\Debug\net9.0\LabWork6_Example2.runtimeconfig.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\bin\Debug\net9.0\LabWork6_Example2.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\bin\Debug\net9.0\LabWork6_Example2.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.AssemblyInfoInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.AssemblyInfo.cs
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.csproj.CoreCompileInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\refint\LabWork6_Example2.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\LabWork6_Example2.genruntimeconfig.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork6\LabWork6_Example2\obj\Debug\net9.0\ref\LabWork6_Example2.dll

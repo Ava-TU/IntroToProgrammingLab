@@ -1,0 +1,14 @@
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\bin\Debug\net9.0\Lab5_Example1.exe
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\bin\Debug\net9.0\Lab5_Example1.deps.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\bin\Debug\net9.0\Lab5_Example1.runtimeconfig.json
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\bin\Debug\net9.0\Lab5_Example1.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\bin\Debug\net9.0\Lab5_Example1.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.AssemblyInfoInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.AssemblyInfo.cs
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.csproj.CoreCompileInputs.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\refint\Lab5_Example1.dll
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.pdb
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\Lab5_Example1.genruntimeconfig.cache
+C:\Users\avabk\OneDrive - Technological University Dublin\Desktop\LabWork5\Lab5_Example1\obj\Debug\net9.0\ref\Lab5_Example1.dll
